@@ -24,4 +24,6 @@ int pintsRemaining
 
 [Tap handle STL](https://www.thingiverse.com/thing:5820755)
 
+#Wiring
+
 ![image](https://user-images.githubusercontent.com/75325891/215361049-61fb9578-4873-4c95-89a1-ceab61651dff.png)
