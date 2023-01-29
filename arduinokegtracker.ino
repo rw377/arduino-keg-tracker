@@ -6,7 +6,7 @@
 //int lastPour
 //int pintsRemaining
 //
-//Initial calibration needs to occur for ounces being poured per second in while loop. Default set to 1 oz pour per second.
+//Initial calibration needs to occur for ounces being poured per second in while loop (line 430). Default set to 1 oz pour per second.
 //Change NTP timezone as required, this is for easter egg commands like "Merry Xmas! that appear on 12/25"
 //"millis" usage is in place rather than "delay" to 1) prevent OLED burn-in 2) ensure pour while loop doesn't get halted 
 
