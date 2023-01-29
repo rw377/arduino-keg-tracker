@@ -23,3 +23,5 @@ int pintsRemaining
 [Wemos D1 Mini ESP8266](https://www.amazon.com/gp/product/B081PX9YFV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) with optional [prototype board](https://www.amazon.com/gp/product/B07L756KQS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 [Tap handle STL](https://www.thingiverse.com/thing:5820755)
+
+![image](https://user-images.githubusercontent.com/75325891/215361049-61fb9578-4873-4c95-89a1-ceab61651dff.png)
