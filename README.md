@@ -4,7 +4,7 @@ More information on this project is available at [ryansprojects.tech](https://ww
 
 This is a kegerator tracking program using a Wemos D1 Mini Arduino board, a 128x64 OLED screen, an ADXL345 acccelerometer, and a custom 3D printed tap handle in which all of the components reside in. Links to the hardware are below. 
 
-This was my first "real" Arduino project and has been interated upon several times. The Arduino Cloud connection is necessary, as there are several cloud variables set in order for this to work properly. Constant connection is not required, but is helpful.  Variables that need to be set in the Arduino Cloud are:
+This was my first "real" Arduino project and has been iterated upon several times. The Arduino Cloud connection is necessary, as there are several cloud variables set in order for this to work properly. Constant connection is not required, but is helpful.  Variables that need to be set in the Arduino Cloud are:
 
 ```
 String kegSizeMessage
