@@ -1,6 +1,5 @@
 
 # Arduino Keg Tracker
-More information on this project is available at [ryansprojects.tech](https://www.ryansprojects.tech).
 
 This is a kegerator tracking program using a Wemos D1 Mini Arduino board, a 128x64 OLED screen, an ADXL345 acccelerometer, and a custom 3D printed tap handle in which all of the components reside in. Links to the hardware are below. 
 
